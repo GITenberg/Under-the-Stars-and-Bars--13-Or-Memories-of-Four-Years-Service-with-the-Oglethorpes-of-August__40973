@@ -1,0 +1,33 @@
+_repo: Under-the-Stars-and-Bars--13-Or-Memories-of-Four-Years-Service-with-the-Oglethorpes-of-August__40973
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Clark, Walter A. (Walter Augustus)
+    alias: Clark, Walter Augustus
+    gutenberg_agent_id: '40918'
+    url: http://www.gutenberg.org/2009/agents/40918
+description: ''
+gutenberg_issued: '2012-10-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40973'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Personal narratives,
+  Confederate'
+- !lcsh 'Georgia -- History -- Civil War, 1861-1865 -- Personal narratives'
+- !lcsh 'Clark, Walter A. (Walter Augustus)'
+- !lcsh 'Confederate States of America. Army. Georgia Infantry Regiment, 1st (1861-1862).
+  Oglethorpe Infantry Company -- Biography'
+- !lcsh 'Soldiers -- Georgia -- Biography'
+- !lcsh 'Atlanta Campaign, 1864 -- Personal narratives'
+- !lcc 'E456'
+title: "Under the Stars and Bars\r\nOr, Memories of Four Years Service with the Oglethorpes,\
+  \ of Augusta, Georgia"
+url: http://www.gutenberg.org/ebooks/40973
