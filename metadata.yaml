@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '40918'
     url: http://www.gutenberg.org/2009/agents/40918
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40973#Under-the-Stars-and-Bars--13-Or-Memories-of-Four-Years-Service-with-the-Oglethorpes-of-August_
 gutenberg_issued: '2012-10-08'
 gutenberg_type: Text
 identifiers:
